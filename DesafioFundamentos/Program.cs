@@ -29,6 +29,8 @@ while (exibirMenu)
     Console.WriteLine("3 - Listar veículos");
     Console.WriteLine("4 - Encerrar");
 
+    // MÉTODOS
+
     switch (Console.ReadLine())
     {
         case "1":
